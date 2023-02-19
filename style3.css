@@ -1,0 +1,58 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+  background: url(Dark.png);
+  background-size: 1300px 1700px;
+}
+
+.ti2{
+  font-size: 30px;
+  font-family: "copperplate", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+  display: inline-block;
+  width: auto;
+  padding: 5px 5px;
+}
+
+
+
+.fin h2{
+  color: white;
+  display: inline-block;
+  text-align: left;
+  margin-top: 35px;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  width: 400px;
+
+}
+.fin span{
+  color: white;
+  display: block;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  width: 400px;
+
+}
+.fin2 h3{
+  color: white;
+  display: block;
+  text-align: right;
+  margin-top: 20px;
+  font-size: 25px;
+  font-size: 30px;
+  font-family: "copperplate", serif;
+  font-weight: 700;
+  font-style: normal;
+
+}
+.fin2 a:visited {
+ color: white;
+}

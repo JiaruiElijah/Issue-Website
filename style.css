@@ -1,0 +1,109 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.menu {
+  background-color: #2D2D2D;
+  /* Grey */
+  position: fixed;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  overflow: hidden;
+  height: 80px;
+  top: 0; /* Added */
+}
+
+.menu ul li{
+  font-size: 30px;
+  font-family: "copperplate", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+  display: inline-block;
+  width: auto;
+  padding: 5px 5px;
+
+}
+
+.menu a:visited {
+ color: white;
+}
+
+.ex1{
+  width: width;
+  height: 100px;
+  margin: 1px;
+  text-align: right;
+}
+
+.title{
+  font-family: 'Gajraj One', cursive;
+  height: 590px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  margin-top: 80px;
+  padding: 5px 5px;
+  background:url(CyberV.png) top center no-repeat;
+  background-size: 1300px 600px;
+  line-height:400px;
+
+}
+
+
+
+.content {
+  font-family: copperplate, serif;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  overflow: hidden;
+  background-color: grey;
+  height: 450px;
+  font-size: 25px;
+  margin: 0;
+}
+
+.content h2{
+  font-family: copperplate, serif;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  overflow: hidden;
+  font-size: 25px;
+  margin: 10px;
+}
+.content h3{
+  font-family: copperplate, serif;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  overflow: hidden;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.content h4{
+  font-family: copperplate, serif;
+  font-style: normal;
+  font-weight: 500;
+  width: 100%;
+  overflow: hidden;
+  font-size: 23px;
+  text-align: right;
+}
+
+
+.content p{
+  font-family: adobe-kaiti-std, sans-serif;
+  font-style: normal;
+  font-size: 15px;
+  font-weight: 400;
+  margin: 10px;
+}
+
+.content a:visited{
+  color: white;
+}
