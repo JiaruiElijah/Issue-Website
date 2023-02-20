@@ -31,7 +31,9 @@ body {
 .menu a:visited {
  color: white;
 }
-
+.menu a:active {
+  color: white;
+}
 .Top{
   width: 100%;
   height: 400px;
